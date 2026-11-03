@@ -1,0 +1,5 @@
+# Datacentrrs dedupe state, never publish
+state.json
+# Source markdown stays local; only rendered HTML is published
+briefs/*.md
+__pycache__/
